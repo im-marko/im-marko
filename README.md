@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**magweregwede/magweregwede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**im-marko/im-marko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 ### 📈 Streaks
-![GitHub Streak](https://streak-stats.demolab.com/?user=magweregwede&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=im-marko&theme=tokyonight)
 
 ### 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=magweregwede&theme=tokyonight&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=im-marko&theme=tokyonight&margin-w=15)
 
 ---
 
@@ -32,24 +32,24 @@ Here are some ideas to get you started:
 <tr>
 <td>
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=magweregwede&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=im-marko&theme=tokyonight)
 
 </td>
 <td>
 
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=magweregwede&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=im-marko&theme=tokyonight)
 
 </td>
 </tr>
 <tr>
 <td>
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=magweregwede&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=im-marko&theme=tokyonight)
 
 </td>
 <td>
 
-![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=magweregwede&theme=tokyonight)
+![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=im-marko&theme=tokyonight)
 
 </td>
 </tr>
